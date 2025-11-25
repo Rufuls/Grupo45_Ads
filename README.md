@@ -468,7 +468,7 @@ Este projeto é desenvolvido como atividade acadêmica do Senac EAD e está disp
 
 ## 🙏 Agradecimentos
 
-Agradecemos aos instrutores e colegas do Senac EAD pelo apoio e orientação durante o desenvolvimento deste projeto.
+Aos colegas que participaram da execucao do trabalho
 
 ---
 
