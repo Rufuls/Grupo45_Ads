@@ -21,9 +21,9 @@ O projeto demonstra a implementação de uma jornada de usuário baseada na pers
 
 | Nome | Função | GitHub |
 |------|--------|--------|
-| Maria Eduarda Ferreira dos Santos | Desenvolvedora Frontend | [@maria-eduarda](https://github.com/maria-eduarda) |
+| Maria Eduarda Ferreira dos Santos | Desenvolvedora Frontend | [@maria-eduarda](https://github.com/Duidix) |
 | Carlos Augusto Barnabe Alves | Desenvolvedor Backend | [@carlosbarnabe](https://github.com/carlosbarnabe) |
-| Guilherme Barbosa Alves | Desenvolvedor Full-Stack | [@hufuls](https://github.com/hufuls) |
+| Guilherme Barbosa Alves | Desenvolvedor Full-Stack | [@Rufuls](https://github.com/Rufuls) |
 
 ---
 
